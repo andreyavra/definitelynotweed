@@ -1,0 +1,27 @@
+#defaultSetup {
+    padding: 0%; 
+    border: 0px;
+    margin: 0px;
+    background: linear-gradient(110deg, rgba(255, 100, 3) 60%, rgba(3, 100, 255) 60%);
+}
+#banner {
+    background-color: blue;
+
+
+}
+.main {
+    font-family: comic sans MS;
+    font-size: 1.25vw;
+}
+.header {
+    font-family: comic sans MS;
+    font-size: 2.5vw;
+}
+.subtext {
+    font-family: comic sans MS;
+    font-size: 0.75vw;
+    margin-left: 5%;
+}
+.stdButton {
+
+}
